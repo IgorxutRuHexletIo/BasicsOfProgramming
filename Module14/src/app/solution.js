@@ -6,5 +6,5 @@ export const check = (a, b, c, d) => {
     return 1;
   }
   return 0;
-}
+};
 // END
