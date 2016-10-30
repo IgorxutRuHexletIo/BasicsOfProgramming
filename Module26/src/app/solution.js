@@ -28,7 +28,6 @@ const compare = (first, second) => {
   }
 
   return 0;
-  }
   // END
 };
 
